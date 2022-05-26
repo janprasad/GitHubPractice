@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        int bob = 0;
+        int bob = 9;
         for(int i=0; i<5; i++){
             bob += 2;
             i--;
@@ -27,6 +27,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-        System.out.println("rigeeufbwefoiwoe");
+        System.out.println("hiiiiii");
     }
 }
