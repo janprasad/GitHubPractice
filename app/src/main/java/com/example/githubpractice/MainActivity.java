@@ -18,7 +18,10 @@ public class MainActivity extends AppCompatActivity {
             bob += 2;
         }
         System.out.println(bob);
-        System.out.println("82");
+
+
+        System.out.println("ahhhhh");
+        System.out.println("kiyoi");
 
 
     }
