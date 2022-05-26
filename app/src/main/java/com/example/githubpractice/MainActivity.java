@@ -20,10 +20,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println(bob);
         System.out.println("82");
 
-        System.out.println("ahhhhh");
-        System.out.println("kiyoi");
-        System.out.println("noooooo");
 
-        System.out.println("ok");
     }
 }
