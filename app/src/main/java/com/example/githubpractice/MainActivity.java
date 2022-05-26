@@ -20,9 +20,11 @@ public class MainActivity extends AppCompatActivity {
         System.out.println(bob);
 
         System.out.println("ahhhhh");
-        System.out.println("kiyoi");
+        for(int i=0; i<2; i++){
+            i++;
+        }
 
 
-        System.out.println("ok");
+        System.out.println("rigeeufbwefoiwoe");
     }
 }
