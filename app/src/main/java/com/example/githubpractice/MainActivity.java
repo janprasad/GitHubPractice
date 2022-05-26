@@ -11,17 +11,19 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.out.println("Once upon a time, there lived a bear.");
 
         int bob = 0;
         for(int i=0; i<5; i++){
             bob += 2;
+            i--;
         }
         System.out.println(bob);
+        System.out.println("82");
+        System.out.println("fred");
+
+        boolean x = false;
 
 
-        System.out.println("ahhhhh");
-        System.out.println("kiyoi");
 
 
     }
